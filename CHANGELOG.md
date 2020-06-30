@@ -1,3 +1,15 @@
+## 4.1.1 (April 21, 2020)
+
+BUG FIXES:
+
+- Do not silently continue if the `installer` command fails. [GH-51]
+
+## 4.1.0 (April 21, 2020)
+
+FEATURES:
+
+- Re-enable installation of VMware Tools on Catalina. [GH-45]
+
 ## 4.0.0 (November 12, 2019)
 
 FEATURES:
